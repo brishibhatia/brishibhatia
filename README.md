@@ -26,6 +26,10 @@ I love turning ideas into clean, scalable, and production-ready applications.
   <a href="mailto:notify.rishibhatia@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
   </a>
+  <a href="https://x.com/Rishi_bhatia001">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+</a>
+
 </p>
 
 ---
