@@ -56,7 +56,6 @@ I love turning ideas into clean, scalable, and production-ready applications.
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 ![Tailwind](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwind-css)
 ![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter)
 
@@ -123,22 +122,14 @@ I love turning ideas into clean, scalable, and production-ready applications.
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brishibhatia&show_icons=true&theme=radical"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brishibhatia&theme=radical"/>
-</p>
-
----
-
 ## 📫 Contact Me
 
 📧 **notify.rishibhatia@gmail.com**  
 📱 **+91-9560558479**  
 💼 **LinkedIn:** https://www.linkedin.com/in/rishi-bhatia-991a66195/  
 💻 **GitHub:** https://github.com/brishibhatia  
+🐦 **X (Twitter):** https://x.com/Rishi_bhatia001  
+
 
 ---
 
