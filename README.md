@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Rishi%20Bhatia&fontSize=48&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20MERN%20|%20Flutter%20|%20AI&descAlignY=60" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Rishi Bhatia</h1>
+<h1 align="center">Hi, I'm Rishi Bhatia</h1>
 <h3 align="center">A Passionate Full Stack Developer building modern web & mobile applications</h3>
 
 <p align="center">
